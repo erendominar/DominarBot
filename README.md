@@ -11,6 +11,10 @@ The Sovereign Onchain Agent for Base
 
 **The Sovereign Onchain Intelligence Agent for Base Chain**
 
+$DOMINAR live on Bankrbot
+
+CA: 0x1098dec0c1a34bcaa3a818cf9875db02aa98bba3
+
 ![Version](https://img.shields.io/badge/Version-0.1.0-orange?style=flat-square)
 ![Base](https://img.shields.io/badge/Chain-Base-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Early%20Alpha-ff9100?style=flat-square)
