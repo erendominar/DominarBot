@@ -2,7 +2,9 @@
 The Sovereign Onchain Agent for Base
 <div align="center">
 
-![DominarBot Banner]dominarbot-og.png
+![DominarBot Banner]<div align="center">
+  <img src="https://raw.githubusercontent.com/erendominar/DominarBot/main/public/og-image.png" alt="DominarBot" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+</div>
 
 
 
