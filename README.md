@@ -61,3 +61,30 @@ DominarBot/
 ├── .github/workflows/    # CI/CD
 ├── docker-compose.yml
 └── README.md
+
+---
+
+## 📊 Live Links
+
+- **Website**: [dominar-bot-website-hwjo.vercel.app](https://dominar-bot-website-hwjo.vercel.app/)
+- **Twitter**: [@DominarBot](https://x.com/dominarbot)
+- **GitHub**: [erendominar/DominarBot](https://github.com/erendominar/DominarBot)
+
+---
+
+## 🤝 Powered by
+
+**[Obol Collective](https://x.com/Obol_Collective)** — Decentralized & Resilient Infrastructure
+
+---
+
+## 📜 License
+
+MIT License — Free to use for the Base community.
+
+---
+
+**Made with 🔥 for Base degens who want to stay ahead of the chart.**
+
+</div>
+
