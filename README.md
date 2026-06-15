@@ -66,9 +66,9 @@ DominarBot/
 
 ## 📊 Live Links
 
-- **Website**: [dominar-bot-website-hwjo.vercel.app](https://dominar-bot-website-hwjo.vercel.app/)
-- **Twitter**: [@DominarBot](https://x.com/dominarbot)
-- **GitHub**: [erendominar/DominarBot](https://github.com/erendominar/DominarBot)
+- **Website**: https://dominatbot.xyz
+- **Twitter**: https://x.com/dominarbot
+- **GitHub**: https://github.com/erendominar/DominarBot
 
 ---
 
