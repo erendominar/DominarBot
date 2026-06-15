@@ -66,9 +66,9 @@ DominarBot/
 
 ## 📊 Live Links
 
-- **Website**: https://dominatbot.xyz
-- **Twitter**: https://x.com/dominarbot
-- **GitHub**: https://github.com/erendominar/DominarBot
+- 🌐 **Website**: [dominarbot.xyz]
+- 🐦 **Twitter**: [@DominarBot](https://x.com/dominarbot)
+- 💻 **GitHub**: [erendominar/DominarBot](https://github.com/erendominar/DominarBot)
 
 ---
 
